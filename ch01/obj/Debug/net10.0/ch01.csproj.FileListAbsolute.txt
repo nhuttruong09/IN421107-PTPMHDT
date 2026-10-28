@@ -1,0 +1,17 @@
+D:\hdt\ch01\bin\Debug\net10.0\ch01.exe
+D:\hdt\ch01\bin\Debug\net10.0\ch01.deps.json
+D:\hdt\ch01\bin\Debug\net10.0\ch01.runtimeconfig.json
+D:\hdt\ch01\bin\Debug\net10.0\ch01.runtimeconfig.dev.json
+D:\hdt\ch01\bin\Debug\net10.0\ch01.dll
+D:\hdt\ch01\bin\Debug\net10.0\ch01.pdb
+D:\hdt\ch01\obj\Debug\net10.0\ch01.GeneratedMSBuildEditorConfig.editorconfig
+D:\hdt\ch01\obj\Debug\net10.0\ch01.AssemblyInfoInputs.cache
+D:\hdt\ch01\obj\Debug\net10.0\ch01.AssemblyInfo.cs
+D:\hdt\ch01\obj\Debug\net10.0\ch01.csproj.CoreCompileInputs.cache
+D:\hdt\ch01\obj\Debug\net10.0\ch01.dll
+D:\hdt\ch01\obj\Debug\net10.0\refint\ch01.dll
+D:\hdt\ch01\obj\Debug\net10.0\ch01.pdb
+D:\hdt\ch01\obj\Debug\net10.0\ch01.genruntimeconfig.cache
+D:\hdt\ch01\obj\Debug\net10.0\ref\ch01.dll
+D:\hdt\ch01\obj\Debug\net10.0\ch01.csproj.Up2Date
+D:\hdt\ch01\obj\Debug\net10.0\ch01.sourcelink.json
